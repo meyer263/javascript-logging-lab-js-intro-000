@@ -1,2 +1,2 @@
 console.error("Aaron!")
-console.log(STAVE)
+console.log("STAVE")
